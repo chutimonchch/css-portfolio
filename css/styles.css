@@ -72,6 +72,9 @@ p {
     margin: 20px;
 }
 
+.digital-tools {
+    size-adjust: 30%;
+}
 .profile-image {
     width: 180px;
     height: 180px;
