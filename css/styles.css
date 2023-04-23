@@ -1,0 +1,99 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h1{ 
+    margin-top: 0;
+    font-size: 80px;
+    font-family: 'Lobster', cursive;
+    color: #fffce1;
+}
+
+h2 {
+    font-family: 'Lobster', cursive;
+    color: #CC704B;
+}
+
+h3 {
+    font-family: 'Bebas Neue', cursive;
+    color: #207b7b;
+}
+p {
+    color: #454545;
+    font-size: 20px;
+}
+
+.marketer {
+    color: #fffce1;
+}
+.top-container {
+    background-color: #31636c;
+    ;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    background-color: #FFFBEB;
+    position: relative;
+    padding-top: 100px;
+}
+
+.bottom-container {
+    background-color: #CC704B;
+    position: relative;
+    padding-top: 1%;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 250px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 180px;
+    bottom: 200px;
+    margin: 100px;
+}
+
+.digital-tools {
+    width: 500px;
+    height: fit-content;
+}
+
+.customer-service {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+
+.digital-marketing {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+
+.profile-image {
+    width: 180px;
+    height: 180px;
+}
+.footer-link {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+hr {
+    background-color: #ffffff;
+    border-style: none;
+    border-top-style: dotted;
+   border-color: #815e2f;
+   height: 0px;
+    border-width: 5px;
+    width: 5%;
+  }
